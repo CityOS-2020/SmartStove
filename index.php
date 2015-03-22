@@ -19,7 +19,7 @@
 
 </head>
 
-<body background="back4.jpg" >	
+<body background="jpg/back4.jpg" >	
 
 <h1><center>SMART SARAJEVO 2020</center></h1>
 
